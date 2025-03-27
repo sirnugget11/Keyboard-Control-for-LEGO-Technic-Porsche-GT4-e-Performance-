@@ -13,7 +13,7 @@ Credits to ChatGPT as well for helping me code this
 
 # Python:
 
-Make sure to install pygame, bleak and asyncio
+Make sure to install pygame, bleak and asyncio.
 Older computers may not support BLE, which is used to communicate to the hub. If you are unsure that your computer supports BLE, just run BLEtest.py.
 While the program is searching for the hub, make sure to press the button on the hub, it should start flashing and allow the computer to connect.
 
