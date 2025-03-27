@@ -22,7 +22,7 @@ While the program is searching for the hub, make sure to press the button on the
 # How to control the car
 Make sure to click on the pygame window.
 It should look like this:
-![Pygame Window](assets/PygameExample.jpg)
+![Pygame Window](assets/PygameExample.png)
 
 # Throttle:
 
