@@ -1,4 +1,4 @@
-# Keyboard-Control-for-LEGO-Technic-Porsche-GT4-e-Performance-
+# Keyboard Control for the LEGO Technic Porsche GT4 e-Performance
 Control the Lego Porsche GT4 with your keyboard and a computer!
 
 Credits to Daniele Benedettelli's code for controlling the Porsche's Hub using a Xbox controller in the TechnicMoveHub repository. 
