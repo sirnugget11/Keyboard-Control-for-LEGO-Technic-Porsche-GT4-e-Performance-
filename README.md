@@ -39,7 +39,6 @@ As soon as you let go of the button, the steering will reset.
 
 # Lights and Battery
 
-Sadly, I haven't figured out how to control the lights and read the battery percentage
-I am open to any suggestions or methods on how to do these things
+Sadly, I haven't figured out how to control the lights and read the battery percentage but I am open to any suggestions or methods on how to do these things
 
 
