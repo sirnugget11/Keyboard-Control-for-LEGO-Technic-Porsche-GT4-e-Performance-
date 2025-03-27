@@ -33,9 +33,11 @@ Use S to reverse
 
 # Steering:
 
-Use A to steer left and D to steer right
+Use A to steer left and D to steer right.
 The longer you hold the button, the higher the turning angle will be. 
 As soon as you let go of the button, the steering will reset.
+You can change the steering speed by changing the value of steering_speed on line 146.
+The default steering speed is 400.
 
 # Lights and Battery
 
